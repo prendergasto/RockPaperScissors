@@ -1,0 +1,35 @@
+* {
+    background-color: sandybrown;
+    color: beige;
+    text-align: center;
+}
+
+.score-board {
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+#game-result {
+    color: greenyellow;
+}
+
+#user-score {
+    text-align: center;
+    
+}
+
+#computer-score {
+    text-align: center;
+
+}
+
+/* #r {
+    text-align: center;
+} */
+
+
+
