@@ -1,5 +1,5 @@
 * {
-    background-color: sandybrown;
+    background-color:black;
     color: beige;
     text-align: center;
 }
@@ -8,9 +8,14 @@
 
 }
 
+img {
+    border-radius: 50%;
+}
+
 table, th, td {
     border: 1px solid black;
     text-align: center;
+    table-layout: fixed;
   }
 
 #game-result {
